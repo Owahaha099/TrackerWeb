@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Field Example</title>
+</head>
+<body>
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" placeholder="Enter your username">
+</body>
+</html>
